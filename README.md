@@ -37,7 +37,7 @@ Built the AI assistant at the core of this app using LangChain and Groq LLM with
 
 **[Learning FastAPI](https://github.com/Smarika13/Learning_Fastapi)** — Production-style REST API built from scratch
 
-Full backend with JWT authentication, refresh tokens, role-based access control, file uploads, database relationships, pagination, filtering, and proper project structure. Every feature built with branches, issues, and pull requests.
+Full backend with JWT authentication, refresh tokens, role-based access control, file uploads, database relationships, pagination, filtering, and proper project structure.
 
 `FastAPI` `SQLAlchemy` `SQLite` `JWT` `Python`
 
