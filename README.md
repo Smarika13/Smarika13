@@ -46,12 +46,7 @@ Full backend with JWT authentication, refresh tokens, role-based access control,
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smarika13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarika13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smarika13&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smarika13&theme=tokyonight" width="100%"/>
 </p>
 
 ---
