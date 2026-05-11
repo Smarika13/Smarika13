@@ -6,7 +6,7 @@
 
 <p align="center">
   I build backend systems that actually work — REST APIs, authentication, databases, and AI-powered features.
-  Currently focused on becoming a solid backend developer. One commit at a time.
+  Currently focused on becoming a solid backend developer. 
 </p>
 
 ---
