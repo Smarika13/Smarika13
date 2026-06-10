@@ -3,13 +3,11 @@
   Junior Backend Developer &nbsp;·&nbsp; From Dhading, Nepal 🇳🇵
 </p>
 <p align="center">
-  I build backend systems with clean architecture — REST APIs, JWT authentication, Redis caching, and AI-powered features.
-  Currently focused on production-ready backend development with FastAPI and PostgreSQL.
+  I build backend systems with clean architecture — service layers, caching, authentication, and AI-powered features — using FastAPI, PostgreSQL, and LangChain.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smarika13&color=blue&style=flat-square&label=Profile+Views"/>
 </p>
-
 ---
 
 ### 🔧 What I Work With
