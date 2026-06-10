@@ -8,8 +8,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smarika13&color=blue&style=flat-square&label=Profile+Views"/>
 </p>
----
-
 ### 🔧 What I Work With
 
 **Backend**
