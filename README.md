@@ -1,10 +1,13 @@
 <h1 align="center">Hey, I'm Smarika 👋</h1>
+
 <p align="center">
-  Junior Backend Developer &nbsp;·&nbsp; From Dhading, Nepal 🇳🇵
+  Computer Engineering Student · Relentless Backend & AI Systems Builder · Nepal 🇳🇵
 </p>
+
 <p align="center">
   I build backend systems with clean architecture — service layers, caching, authentication, and AI-powered features — using FastAPI, PostgreSQL, and LangChain.
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smarika13&color=blue&style=flat-square&label=Profile+Views"/>
 </p>
@@ -17,10 +20,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SlowAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
@@ -64,7 +67,7 @@
 
 A production-structured backend for managing school workflows across three roles: Student, Teacher, and Admin. Built with real architectural decisions — service layer separation, Redis cache-aside pattern with active invalidation, refresh token rotation, and a CI/CD pipeline with branch protection.
 
-`FastAPI` `SQLAlchemy` `PostgreSQL` `Redis` `JWT` `Alembic` `SlowAPI` `GitHub Actions` `Python`
+`FastAPI` `SQLAlchemy` `SQLite` `Redis` `JWT` `Alembic` `SlowAPI` `GitHub Actions` `Python`
 
 ---
 
@@ -72,11 +75,11 @@ A production-structured backend for managing school workflows across three roles
 
 Built the AI assistant at the core of this app — a hybrid RAG pipeline using dense and sparse retrieval (FAISS + BM25 with RRF) and LangChain with Groq LLM that gives users reliable, context-aware answers from curated park data. Integrated into a Flutter frontend with Firebase as the backend service.
 
-`Python` `LangChain` `RAG` `FAISS` `Groq` `Flutter` `Firebase`
+`Python` `LangChain` `RAG` `FAISS` `FastEmbed` `BM25` `Groq` `Flutter` `Firebase`
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smarika13&theme=tokyonight" width="100%"/>
@@ -93,5 +96,5 @@ Built the AI assistant at the core of this app — a hybrid RAG pipeline using d
 ---
 
 <p align="center">
-  <i>"I learn by building, I improve by breaking things, and I show up every day regardless."</i>
+  <i>"I build systems to understand how they work, not just to finish them."</i>
 </p>
