@@ -30,6 +30,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastEmbed-009688?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BM25-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 **Frontend & Mobile**
@@ -68,7 +71,7 @@ A production-structured backend for managing school workflows across three roles
 
 **[CNP_Explore](https://github.com/Smarika13/CNP_EXPLOREE)** — Smart Wildlife Exploration System for Chitwan National Park
 
-Built the AI assistant at the core of this app — a RAG pipeline using LangChain and Groq LLM that gives users reliable, context-aware answers from curated park data. Integrated into a Flutter frontend with Firebase as the backend service.
+Built the AI assistant at the core of this app — a hybrid RAG pipeline using dense and sparse retrieval (FAISS + BM25 with RRF) and LangChain with Groq LLM that gives users reliable, context-aware answers from curated park data. Integrated into a Flutter frontend with Firebase as the backend service.
 
 `Python` `LangChain` `RAG` `FAISS` `Groq` `Flutter` `Firebase`
 
