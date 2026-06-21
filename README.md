@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Smarika 👋</h1>
 
 <p align="center">
-  Computer Engineering Student · Relentless Backend & AI Systems Builder · Nepal 🇳🇵
+  Computer Engineering Student · Full-Stack Developer · Backend & AI Systems Builder · Nepal 🇳🇵
 </p>
 
 <p align="center">
-  I build backend systems with clean architecture — service layers, caching, authentication, and AI-powered features — using FastAPI, PostgreSQL, and LangChain.
+  I build full-stack systems with clean architecture, including FastAPI and PostgreSQL backends, AI-powered features, and Flutter frontends, with a focus on production-ready security and deployment.
 </p>
 
 <p align="center">
